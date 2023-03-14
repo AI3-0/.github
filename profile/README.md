@@ -1,4 +1,4 @@
-# AI 3.0
+# SolAI - AI 3.0
 
 ## Development Goals
 ### Demo-Game
