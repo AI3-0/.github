@@ -1,15 +1,10 @@
 # AI 3.0
 
 ## Development Goals
-### Tensorflow.js Dapp
+### Demo-Game
 - https://github.com/AI3-0/Tensorflow-js-Dapp
-- Connect Wallet with Aptos supporting Wallets
-- Upload model to IPFS and receive Reward from Aptos blockchain
-- Tensorflow.js for training under various data
-    - Video data stream
-    - Audio data stream
-    - Table data
-- Development from boilerplate codebase from teachingmachine(google).
+- Connect Wallet with Phantom Wallet
+- Upload model and receive Reward from Solana blockchain
 
 ### FL-Simulation
 - https://github.com/AI3-0/fl-simulation
