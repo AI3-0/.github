@@ -1,13 +1,28 @@
 # SolAI - AI 3.0
 
-## Development Goals
+## Repositories
 ### Demo-Game
-- https://github.com/Community-Driven-AI/solai-game
+- https://github.com/SolAI-Protocol/solai-game
 - Connect Wallet with Phantom Wallet
-- Upload model and receive Reward from Solana blockchain
+- Upload model and receive AI model NFT
+- Front-End for user participation
+- Visualize the decentralized training procedure
+
+### Contracts
+- https://github.com/SolAI-Protocol/solai-contracts
+- Update Peer Evaluation Scores On-Chain and Control the Overall Train History
+- Under Development...
+
+### Demo-Client
+- https://github.com/SolAI-Protocol/solai-demo-client
+- Currently Share Resource for all clients (Single Server), but does not share data
+- Future Goal: Front-End + Demo-Client
+- Two roles
+  - Aggregator: Aggregating the Local Models into a Global model for each round
+  - Train/Tester: Train and Test Models with user data
 
 ### FL-Simulation
-- https://github.com/Community-Driven-AI/fl-simulation
+- https://github.com/SolAI-Protocol/fl-simulation
 - Federated Learning Simulation tool
 - Simulate various scenarios
 - Implemented Class imbalance problem scenario
